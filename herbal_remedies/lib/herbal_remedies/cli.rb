@@ -198,4 +198,4 @@ class CommandLineInteface
 
 end
 
-binding.binding.pry
+binding.pry
