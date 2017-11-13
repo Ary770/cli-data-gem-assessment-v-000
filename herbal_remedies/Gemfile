@@ -3,7 +3,6 @@ require 'nokogiri'
 require 'open-uri'
 require 'pry'
 require 'rake'
-require 'bundler'
 
 # Specify your gem's dependencies in herbal_remedies.gemspec
 gemspec
